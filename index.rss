@@ -2,6 +2,7 @@
 <title>Seth Szymanski's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Plumber (Level 2)</title><description>Use the internal plumbing commands of git.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Apprentice Seamstress (Level 2)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Pilgrim (Level 1)</title><description>Performed a rebase using git rebase --onto.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Historian (Level 6)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
