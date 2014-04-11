@@ -2,6 +2,7 @@
 <title>Seth Szymanski's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Plumber (Level 3)</title><description>Use the internal plumbing commands of git.</description></item>
 <item><title>Thug (Level 4)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Product Manager (Level 3)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 1)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
-<item><title>Apprentice Plumber (Level 1)</title><description>Use the internal plumbing commands of git.</description></item>
 </channel></rss>
